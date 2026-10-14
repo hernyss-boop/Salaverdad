@@ -1,0 +1,6 @@
+{
+  "name": "Operación Verdad",
+  "description": "Sala de escape educativa interactiva para trabajar la detección de noticias falsas y alfabetización digital, desarrollada para Aula Creativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
